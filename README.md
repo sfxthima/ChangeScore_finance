@@ -16,7 +16,7 @@ The project integrates SQL via SQLite for baseline calculations, Python with Pan
 
 ```
 FintechPortfolio/
-├─ ChangeScore.ipynb                # Main notebook with analysis
+├─ Change_Score.ipynb                # Main notebook with analysis
 ├─ data/
 │   └─ transaction.xlsx             # Raw dataset
 ├─fintech.db                        # SQLite database with transaction table
