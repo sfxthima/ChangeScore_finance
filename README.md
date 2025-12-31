@@ -19,7 +19,7 @@ FintechPortfolio/
 ├─ Change_Score.ipynb                # Main notebook with analysis
 ├─ data/
 │   └─ transaction.xlsx             # Raw dataset
-├─fintech.db                        # SQLite database with transaction table
+├─fintech.db                        # SQLite database with transaction table, gets created after running the program the 1st time
 ├─ output/
 │   └─ ChangeScore_output.csv       # Final transactions with ChangeScore
 ├─ plots/
